@@ -43,6 +43,7 @@
     text-transform: uppercase;
     color: $color-primary;
     text-decoration: none;
+    transition: color 300ms ease;
 
     &:hover {
       color: $color-blue;
